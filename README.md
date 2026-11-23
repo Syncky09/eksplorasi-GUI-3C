@@ -1,4 +1,4 @@
-# Form Minat Mata Kuliah Mahasiswa (`TugasGUI.java`)
+# Form Minat Mata Kuliah Mahasiswa (`FormMahasiswa.java`)
 
 Aplikasi desktop berbasis Java Swing untuk mendata pilihan bidang minat mata kuliah mahasiswa beserta validasi input dan interaksi antarmuka dinamis.
 
@@ -47,10 +47,10 @@ Menangani interaksi pengguna (klik tombol dan pergerakan kursor):
 1. Pastikan **Java Development Kit (JDK)** sudah terpasang pada sistem.
 2. Kompilasi kode sumber:
    ```bash
-   javac TugasGUI.java
+   javac FormMahasiswa.java
 3. Jalankan Aplikasi:
    ```bash
-   java TugasGUI
+   java FormMahasiswa
 <img width="608" height="428" alt="image" src="https://github.com/user-attachments/assets/5aafb52f-63c1-48c3-a341-fc4e231f9ca0" />
 <img width="608" height="428" alt="Screenshot 2026-11-24 074534" src="https://github.com/user-attachments/assets/e296c7df-31ac-45e5-a4c7-37457d29d57c" />
 
