@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class TugasGUI {
+public class FormMahasiswa {
     public static void main(String[] args) {
         // 1. TOP-LEVEL CONTAINER CLASS: JFrame
         JFrame frame = new JFrame("Form Minat Mahasiswa");
