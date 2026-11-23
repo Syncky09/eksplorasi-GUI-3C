@@ -48,3 +48,6 @@ Menangani interaksi pengguna (klik tombol dan pergerakan kursor):
 2. Kompilasi kode sumber:
    ```bash
    javac TugasGUI.java
+3. Jalankan Aplikasi:
+   ```bash
+   java TugasGUI
